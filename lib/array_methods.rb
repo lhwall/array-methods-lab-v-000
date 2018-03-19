@@ -19,5 +19,6 @@ def using_last(array)
 end
 
 def using_size(array)
- array.length
+ array.size 
+ #I tested and array.length also passes this test
 end
